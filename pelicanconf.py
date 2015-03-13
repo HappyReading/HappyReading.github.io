@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'youngsterxyf'
-SITENAME = u''
+SITENAME = u'偷着乐读书会'
 SITEURL = 'http://happyreading.github.io'
 
 PATH = 'content'
@@ -47,3 +47,8 @@ PAGE_URL = 'pages/{slug}.html'
 PAGE_SAVE_AS = 'pages/{slug}.html'
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
+
+MENUITEMS = (
+    (u'归 档', '/archives.html'),
+    (u'RSS', '/feeds/rss.xml')
+)
