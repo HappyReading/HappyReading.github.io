@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>偷着乐读书会</title><link>http://happyreading.github.io/</link><description></description><atom:link href="http://happyreading.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 13 Mar 2015 00:00:00 +0800</lastBuildDate><item><title>您好，世界！</title><link>http://happyreading.github.io/2015/03/13/hello-world/</link><description>&lt;p&gt;Just want to say "Hello World!"&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Fri, 13 Mar 2015 00:00:00 +0800</pubDate><guid>tag:happyreading.github.io,2015-03-13:2015/03/13/hello-world/</guid></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>偷着乐读书会</title><link>http://happyreading.github.io/</link><description></description><atom:link href="http://happyreading.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 19 Mar 2015 00:00:00 +0800</lastBuildDate><item><title>读书会 第1期</title><link>http://happyreading.github.io/2015/03/19/1st-share/</link><description>&lt;ul&gt;
+&lt;li&gt;NodeJS模块简介&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;分享人：icake&lt;/p&gt;
+&lt;p&gt;链接：&lt;a href="http://gejiawen.github.io/2015/03/17/Nodejs/NodeJS%E6%A8%A1%E5%9D%97%E5%85%A8%E9%9D%A2%E6%8C%87%E5%8D%97/"&gt;戳这里&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;li&gt;《编译原理》（龙书）第1、2章&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;分享人：Ryan&lt;/p&gt;
+&lt;p&gt;链接：&lt;a href="http://picasso250.github.io/2015/03/16/compile-note.html"&gt;戳这里&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Thu, 19 Mar 2015 00:00:00 +0800</pubDate><guid>tag:happyreading.github.io,2015-03-19:2015/03/19/1st-share/</guid></item><item><title>您好，世界！</title><link>http://happyreading.github.io/2015/03/13/hello-world/</link><description>&lt;p&gt;Just want to say "Hello World!"&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Fri, 13 Mar 2015 00:00:00 +0800</pubDate><guid>tag:happyreading.github.io,2015-03-13:2015/03/13/hello-world/</guid></item></channel></rss>

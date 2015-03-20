@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>偷着乐读书会</title><link href="http://happyreading.github.io/" rel="alternate"></link><link href="http://happyreading.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happyreading.github.io/</id><updated>2015-03-13T00:00:00+08:00</updated><entry><title>您好，世界！</title><link href="http://happyreading.github.io/2015/03/13/hello-world/" rel="alternate"></link><updated>2015-03-13T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happyreading.github.io,2015-03-13:2015/03/13/hello-world/</id><summary type="html">&lt;p&gt;Just want to say "Hello World!"&lt;/p&gt;</summary></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>偷着乐读书会</title><link href="http://happyreading.github.io/" rel="alternate"></link><link href="http://happyreading.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happyreading.github.io/</id><updated>2015-03-19T00:00:00+08:00</updated><entry><title>读书会 第1期</title><link href="http://happyreading.github.io/2015/03/19/1st-share/" rel="alternate"></link><updated>2015-03-19T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happyreading.github.io,2015-03-19:2015/03/19/1st-share/</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;NodeJS模块简介&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;分享人：icake&lt;/p&gt;
+&lt;p&gt;链接：&lt;a href="http://gejiawen.github.io/2015/03/17/Nodejs/NodeJS%E6%A8%A1%E5%9D%97%E5%85%A8%E9%9D%A2%E6%8C%87%E5%8D%97/"&gt;戳这里&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;li&gt;《编译原理》（龙书）第1、2章&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;分享人：Ryan&lt;/p&gt;
+&lt;p&gt;链接：&lt;a href="http://picasso250.github.io/2015/03/16/compile-note.html"&gt;戳这里&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>您好，世界！</title><link href="http://happyreading.github.io/2015/03/13/hello-world/" rel="alternate"></link><updated>2015-03-13T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happyreading.github.io,2015-03-13:2015/03/13/hello-world/</id><summary type="html">&lt;p&gt;Just want to say "Hello World!"&lt;/p&gt;</summary></entry></feed>
