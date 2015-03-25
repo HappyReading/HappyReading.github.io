@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>偷着乐读书会</title><link href="http://happyreading.github.io/" rel="alternate"></link><link href="http://happyreading.github.io/feeds/atom.xml" rel="self"></link><id>http://happyreading.github.io/</id><updated>2015-03-19T00:00:00+08:00</updated><entry><title>读书会 第1期</title><link href="http://happyreading.github.io/2015/03/19/1st-share/" rel="alternate"></link><updated>2015-03-19T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happyreading.github.io,2015-03-19:2015/03/19/1st-share/</id><summary type="html">&lt;ul&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>偷着乐读书会</title><link href="http://happyreading.github.io/" rel="alternate"></link><link href="http://happyreading.github.io/feeds/atom.xml" rel="self"></link><id>http://happyreading.github.io/</id><updated>2015-03-25T00:00:00+08:00</updated><entry><title>读书会 第2期</title><link href="http://happyreading.github.io/2015/03/25/2nd-share/" rel="alternate"></link><updated>2015-03-25T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happyreading.github.io,2015-03-25:2015/03/25/2nd-share/</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;Slim框架实践与原理简介&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;分享人：youngsterxyf&lt;/p&gt;
+&lt;p&gt;链接：&lt;a href="http://blog.xiayf.cn/2015/03/22/read-slim/"&gt;戳这里&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>读书会 第1期</title><link href="http://happyreading.github.io/2015/03/19/1st-share/" rel="alternate"></link><updated>2015-03-19T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happyreading.github.io,2015-03-19:2015/03/19/1st-share/</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;NodeJS模块简介&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;分享人：icake&lt;/p&gt;
