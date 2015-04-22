@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>偷着乐读书会</title><link>http://happyreading.github.io/</link><description></description><atom:link href="http://happyreading.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0800</lastBuildDate><item><title>读书会 第3期</title><link>http://happyreading.github.io/2015/04/01/3rd-share/</link><description>&lt;p&gt;技术讨论：&lt;a href="http://12factor.net/"&gt;The twelve-Factor App&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Wed, 01 Apr 2015 00:00:00 +0800</pubDate><guid>tag:happyreading.github.io,2015-04-01:2015/04/01/3rd-share/</guid></item><item><title>读书会 第2期</title><link>http://happyreading.github.io/2015/03/25/2nd-share/</link><description>&lt;ul&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>偷着乐读书会</title><link>http://happyreading.github.io/</link><description></description><atom:link href="http://happyreading.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 22 Apr 2015 00:00:00 +0800</lastBuildDate><item><title>读书会 第5期</title><link>http://happyreading.github.io/2015/04/22/5th-share/</link><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;分享人：华青&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;题目：&lt;a href="http://pan.baidu.com/s/1wHx74"&gt;分布式消息队列Kafka初认识&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Wed, 22 Apr 2015 00:00:00 +0800</pubDate><guid>tag:happyreading.github.io,2015-04-22:2015/04/22/5th-share/</guid></item><item><title>读书会 第4期</title><link>http://happyreading.github.io/2015/04/16/4th-share/</link><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;分享人：袁源&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;题目：&lt;a href="http://pan.baidu.com/s/1bnFClBp"&gt;《Clean Code》读书分享&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Thu, 16 Apr 2015 00:00:00 +0800</pubDate><guid>tag:happyreading.github.io,2015-04-16:2015/04/16/4th-share/</guid></item><item><title>读书会 第3期</title><link>http://happyreading.github.io/2015/04/01/3rd-share/</link><description>&lt;p&gt;技术讨论：&lt;a href="http://12factor.net/"&gt;The twelve-Factor App&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Wed, 01 Apr 2015 00:00:00 +0800</pubDate><guid>tag:happyreading.github.io,2015-04-01:2015/04/01/3rd-share/</guid></item><item><title>读书会 第2期</title><link>http://happyreading.github.io/2015/03/25/2nd-share/</link><description>&lt;ul&gt;
 &lt;li&gt;Slim框架实践与原理简介&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;分享人：youngsterxyf&lt;/p&gt;
