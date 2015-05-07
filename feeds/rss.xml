@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>偷着乐读书会</title><link>http://happyreading.github.io/</link><description></description><atom:link href="http://happyreading.github.io/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 22 Apr 2015 00:00:00 +0800</lastBuildDate><item><title>读书会 第5期</title><link>http://happyreading.github.io/2015/04/22/5th-share/</link><description>&lt;ul&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>偷着乐读书会</title><link>http://happyreading.github.io/</link><description></description><atom:link href="http://happyreading.github.io/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 06 May 2015 00:00:00 +0800</lastBuildDate><item><title>读书会 第7期</title><link>http://happyreading.github.io/2015/05/06/7th-share/</link><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;分享人：召群&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;题目：&lt;a href="http://secfree.github.io/blog/2015/04/18/spark-sql-introduction.html"&gt;深入浅出Spark SQL&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Wed, 06 May 2015 00:00:00 +0800</pubDate><guid>tag:happyreading.github.io,2015-05-06:2015/05/06/7th-share/</guid></item><item><title>读书会 第6期</title><link>http://happyreading.github.io/2015/04/29/6th-share/</link><description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;分享人：贾老板&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;题目：&lt;a href="http://pan.baidu.com/s/1c0ARii0"&gt;Scrum敏捷开发流程简介&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Wed, 29 Apr 2015 00:00:00 +0800</pubDate><guid>tag:happyreading.github.io,2015-04-29:2015/04/29/6th-share/</guid></item><item><title>读书会 第5期</title><link>http://happyreading.github.io/2015/04/22/5th-share/</link><description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;分享人：华青&lt;/p&gt;
 &lt;/li&gt;
